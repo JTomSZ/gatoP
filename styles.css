@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    background: linear-gradient(90deg, black, white);
+}
+#foto1{
+    
+    margin-left: 47%;
+    margin-top: 15%;
+    width: 400px;
+    height: 400px;
+}
+
+h1{
+    display: flex;
+    font: normal 25pt arial;
+    color: white;
+    margin-left: 38%;
+}
